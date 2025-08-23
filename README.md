@@ -38,7 +38,7 @@ Currently sharpening skills through **Hack The Box, TryHackMe, and CyberDefender
 
 ## 🧰 Skills
 
-- **Offensive Security**: Web Exploitation, Privilege Escalation, Network Attacks, CTFs  
+- **Offensive Security**: Web Exploitation, Android App Exploitation, Active Directory & Network Pentesting, CTFs.
 - **Blue Team**: SIEM (Azure Sentinel), Threat Hunting, Detection Engineering  
 - **Programming & Scripting**: Python, Bash, JavaScript  
 - **DevOps/SecOps**: Docker, Git, CI/CD, Cloud Security Basics  
