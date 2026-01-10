@@ -45,19 +45,6 @@ Currently sharpening skills through **Hack The Box, TryHackMe, and CyberDefender
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x0z0n&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x0z0n&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0z0n&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0x0z0n.github.io-00ff99?style=for-the-badge&logo=github)](https://0x0z0n.github.io)  
