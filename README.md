@@ -32,10 +32,9 @@ Passionate about solving complex challenges across offensive security, digital f
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x0z0n&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0z0n&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=0x0z0n&show_icons=true&theme=radical&hide_border=true" alt="0x0z0n's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0x0z0n&layout=compact&theme=radical&hide_border=true" alt="0x0z0n's Top Languages" />
 </div>
-
 ---
 
 ## Certifications & Lab Achievements
@@ -61,5 +60,4 @@ Passionate about solving complex challenges across offensive security, digital f
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0x0z0n.github.io-00ff99?style=for-the-badge&logo=github)](https://0x0z0n.github.io/Portfolio/)
 [![Blog](https://img.shields.io/badge/Blog-0x0z0n.github.io-00ff99?style=for-the-badge&logo=github)](https://0x0z0n.github.io/Research/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0x0z0n-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/0x0z0n)
-[![Twitter](https://img.shields.io/badge/Twitter-@0x0z0n-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/0x0z0n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0x0z0n-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kshitijnraut)
