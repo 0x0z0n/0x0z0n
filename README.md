@@ -35,7 +35,6 @@ Passionate about solving complex challenges across offensive security, digital f
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=0x0z0n&show_icons=true&theme=radical&hide_border=true" alt="0x0z0n's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0x0z0n&layout=compact&theme=radical&hide_border=true" alt="0x0z0n's Top Languages" />
 </div>
----
 
 ## Certifications & Lab Achievements
 
