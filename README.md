@@ -1,56 +1,55 @@
-# 👋 Hey, I'm Kshitij (0x0z0n)
+# Kshitij Raut (0x0z0n)
 
-💻 **Cybersecurity Enthusiast | Red & Blue Teaming | SOC Automation**  
-Passionate about solving complex challenges across **offensive security, digital forensics, and detection engineering**.  
-Currently sharpening skills through **Hack The Box, TryHackMe, and CyberDefenders** while building security-focused projects.  
+**Cybersecurity Professional | Red & Blue Teaming | SOC Automation**
 
----
-
-## 🚀 Cyber Labs Achievements
-
-- **Hack The Box (HTB): Pro Hacker**  
-  - 🎯 Rank Progress: *10.28% towards Elite Hacker*  
-  - 🏆 Ownership: *47.57% of machines pwned*  
-  - 🔗 [HTB Profile](https://app.hackthebox.com/profile/1761906)
-
-- **TryHackMe: Top 5%**  
-  - Completed advanced **Red Team & Blue Team paths**: privilege escalation, SOC investigations, web exploitation.  
-  - 🔗 [THM Profile](https://tryhackme.com/p/0x0z0n)
-
-- **CyberDefenders** – Just started  
-  - Exploring **DFIR, threat hunting, and malware analysis** challenges.  
-  - 🔗 [Profile](https://cyberdefenders.org/p/0x0z0n)
+Passionate about solving complex challenges across offensive security, digital forensics, and detection engineering. Bringing 9 years of deep technical experience, including dedicated time as a SOC Analyst, I bridge the gap between building robust defenses and understanding advanced adversary tactics. Currently focused on expanding my expertise in Windows Internals, active threat hunting, and developing custom security tooling.
 
 ---
 
-## 🛠️ Projects
+## Core Competencies
 
-- **📂 Portfolio Site** *(GitHub Pages)*  
-  Personal cybersecurity blog & portfolio with **writeups, cheat sheets, and lab integrations**.  
-  *Tech Stack:* HTML, CSS, JavaScript, GitHub Actions  
-
-- **🔎 SIEM Use Case Builder** *(Azure Sentinel)*  
-  Built & deployed **detection rules** for brute force, persistence, and privilege escalation.  
-  Automated **SOC alerts & dashboards** for investigations.  
-  *Tech Stack:* Azure Sentinel (KQL), Microsoft Security Suite  
+* **Offensive Security:** Web & Android App Exploitation, Active Directory & Network Pentesting, Custom Tooling.
+* **Defensive Security:** SIEM (Microsoft Sentinel), Threat Hunting, Detection Engineering, Digital Forensics, Windows Internals.
+* **Environments & Tooling:** Kali Linux, BlackArch Linux, Docker, Git, CI/CD.
+* **Programming & Scripting:** Python, Bash, JavaScript, KQL, Flask.
 
 ---
 
-## 🧰 Skills
+## Certifications & Lab Achievements
 
-- **Offensive Security**: Web Exploitation, Android App Exploitation, Active Directory & Network Pentesting, CTFs.
-- **Blue Team**: SIEM (Azure Sentinel), Threat Hunting, Detection Engineering  
-- **Programming & Scripting**: Python, Bash, JavaScript  
-- **DevOps/SecOps**: Docker, Git, CI/CD, Cloud Security Basics  
-
----
-
-## 📫 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0x0z0n.github.io-00ff99?style=for-the-badge&logo=github)](https://0x0z0n.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0x0z0n-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/0x0z0n)  
-[![Twitter](https://img.shields.io/badge/Twitter-@0x0z0n-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/0x0z0n)  
+* **Microsoft Certified:** Security Operations Analyst Associate (SC-200).
+* **T7 Cybersecurity Track:** Completed with Distinction.
+* **Hack The Box (HTB):** Pro Hacker (47.57% system ownership, progressing towards Elite).
+* **TryHackMe (THM):** Top 5% | Consistent participant in Advent of Cyber (2021–2025).
+* **CyberDefenders:** Active in DFIR, threat hunting, and malware analysis challenges.
 
 ---
 
-⭐️ Always learning, always hacking.  
+## Featured Projects
+
+**Atom**
+Developed an offensive security tool designed to streamline penetration testing workflows and automate specialized attack vectors.
+*Tech Stack:* Python, Bash
+
+**SIEM Use Case Builder**
+Built and deployed detection rules for brute force, persistence, and privilege escalation within Microsoft Sentinel. Automated SOC alerts and dashboards for rapid investigation.
+*Tech Stack:* Azure Sentinel (KQL), Microsoft 365 Defender
+
+**CropVision**
+Engineered a machine learning-based Flask web application for predictive image analysis, demonstrating strong backend Python and data science integration capabilities.
+*Tech Stack:* Python, Flask, Machine Learning (SVM, CNN)
+
+**0x0z0n Security Blog**
+Personal repository for cybersecurity writeups, cheat sheets, and lab integrations, hosted via GitHub Pages.
+*Tech Stack:* HTML, CSS, JavaScript, GitHub Actions
+
+---
+
+## Connect
+
+* **Portfolio & Blog:** [0x0z0n.github.io/Blog](https://0x0z0n.github.io/Blog/)
+* **LinkedIn:** [linkedin.com/in/0x0z0n](https://linkedin.com/in/0x0z0n)
+* **Twitter:** [@0x0z0n](https://twitter.com/0x0z0n)
+
+---
+Always learning, always hacking.
