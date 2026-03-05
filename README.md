@@ -39,10 +39,8 @@ Passionate about solving complex challenges across offensive security, digital f
 ## Certifications & Lab Achievements
 
 * **Microsoft Certified:** Security Operations Analyst Associate (SC-200).
-* **T7 Cybersecurity Track:** Completed with Distinction.
-* **Hack The Box (HTB):** Pro Hacker (47.57% system ownership, progressing towards Elite).
+* **Hack The Box (HTB):** Pro Hacker (54.14% system ownership, progressing towards Elite).
 * **TryHackMe (THM):** Top 5% | Consistent participant in Advent of Cyber (2021–2025).
-* **CyberDefenders:** Active in DFIR, threat hunting, and malware analysis.
 
 ---
 
